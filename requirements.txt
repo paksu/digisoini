@@ -1,0 +1,5 @@
+# for scraping
+pyquery==1.2.13
+requests==2.10.0
+numpy==1.11.0
+Keras==1.0.4
